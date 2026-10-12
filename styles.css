@@ -99,6 +99,7 @@ footer {
   .hero { display: flex; align-items: center; gap: var(--space-lg); }
 }
 
+
 @media (min-width: 1024px) {
   .projects-grid { grid-template-columns: repeat(3, 1fr); }
   main { max-width: 1024px; margin: 0 auto; }
